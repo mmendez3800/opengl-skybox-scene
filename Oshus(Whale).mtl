@@ -1,0 +1,16 @@
+newmtl mt_uo
+ka 0 0 0
+kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_uo.png
+map_kd mt_uo.ppm
+map_d mt_uo.png
+newmtl mt_uo_eye
+ka 0 0 0
+kd 0.4705882 0.4705882 0.4705882
+d 1
+Tr 1
+map_Ka mt_uo_eye.png
+map_kd mt_uo_eye.ppm
+map_d mt_uo_eye.png
