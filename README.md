@@ -19,7 +19,7 @@ After cloning or forking the repository, you can run the project in the below ma
 1. Download freeglut 3.0.0 for MSVC
 2. Extract the contents of the zip file and place it in the C drive
    - This should result in `C:\freeglut` existing
-3. Go to `C:\freeglut\bin'
+3. Go to `C:\freeglut\bin`
 4. Move `freeglut.dll` to `C:\Windows\System32` or `C:\Windows\SysWOW64` (depending on your operating system)
 5. Download `GLee.h` and `GLee.lib` from the [Git repository on Sourceforge](https://sourceforge.net/p/glee/glee/ci/master/tree/)
 6. Place `GLee.h` within `C:\freeglut\include\GL`
